@@ -1,0 +1,15 @@
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\bin\Debug\net6.0\Dom Zadanie10.exe
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\bin\Debug\net6.0\Dom Zadanie10.deps.json
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\bin\Debug\net6.0\Dom Zadanie10.runtimeconfig.json
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\bin\Debug\net6.0\Dom Zadanie10.dll
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\bin\Debug\net6.0\Dom Zadanie10.pdb
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.csproj.AssemblyReference.cache
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.AssemblyInfoInputs.cache
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.AssemblyInfo.cs
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.csproj.CoreCompileInputs.cache
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.dll
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\refint\Dom Zadanie10.dll
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.pdb
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\Dom Zadanie10.genruntimeconfig.cache
+C:\Users\bobs3\OneDrive\Документы\GitHub\DomZadanie140202023\Dom Zadanie10\obj\Debug\net6.0\ref\Dom Zadanie10.dll
