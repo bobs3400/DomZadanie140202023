@@ -16,3 +16,16 @@ else
     int tri = a % 10;
     Console.WriteLine("Третья цифра " + tri);
 }
+
+Console.Clear();
+Console.WriteLine("Введите цифру обозначающую день недели");
+int a = int.Parse(Console.ReadLine());
+if (a > 7 || a < 1)
+{
+    Console.WriteLine("Такого дня недели нет");
+}
+else 
+{   
+    if(a == 6 || a == 7) Console.WriteLine("ДА");
+    else Console.WriteLine("НЕТ");
+}
